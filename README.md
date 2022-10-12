@@ -1,6 +1,6 @@
 # Hacktoberfest-SocketProgramming-MapReduce
 
- ### Want to contribute ? Refer [Contributing.md](https://github.com/Manraj-Mann/Hacktoberfest-DSA-Codes/blob/main/CONTRIBUTING.md)
+ ### Want to contribute ? Refer [Contributing.md](https://github.com/PraMehra/Hacktoberfest-SocketProgramming-MapReduce/blob/main/CONTRIBUTING.md)
 
 <p align="center"> <img src="https://uno-website-assets.s3.amazonaws.com/wp-content/uploads/2022/09/28094927/Uno_HackFest22_Hero_V1-1024x395.jpg" alt="image" /> </p>
 
